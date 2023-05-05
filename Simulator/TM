@@ -22,10 +22,9 @@ turing {
 		output {c}
 	}
 	edge 1 1 {
-		transits {a}
+		transits {ad}
 		offset {1.6850506547563362}
 		direction {R}
-		output {d}
 	}
 	edge 1 2 {
 		transits {b}
